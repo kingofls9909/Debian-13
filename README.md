@@ -17,7 +17,7 @@ This image contains the following packages
 | `ca-certificates` | `update-ca-certificates` |
 | `curl` | `curl` |
 | `dnsutils` | `dig`, `nslookup`, `host`, `delv` |
-| `docker-ce-cli` | `docker` |
+| `docker-ce-cli` | `docker` | 
 | `dstat` | `dstat` |
 | `git` | `git`, `git-receive-pack`, `git-upload-pack` |
 | `gnupg` | `gpg`, `gpgv`, `gpgconf` |
