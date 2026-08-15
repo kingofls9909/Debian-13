@@ -11,13 +11,14 @@ This is a lightweight, feature-packed image based on `debian:trixie-slim`. Built
 
 > [!NOTE]
 This image contains the following packages
+
 | Package | Commands |
 |---|---|
 | `bzip2` | `bzip2`, `bunzip2`, `bzcat`, `bzip2recover` |
 | `ca-certificates` | `update-ca-certificates` |
 | `curl` | `curl` |
 | `dnsutils` | `dig`, `nslookup`, `host`, `delv` |
-| `docker.io` | `docker`, `dockerd` |
+| `docker-ce-cli` | `docker` |
 | `dstat` | `dstat` |
 | `git` | `git`, `git-receive-pack`, `git-upload-pack` |
 | `gnupg` | `gpg`, `gpgv`, `gpgconf` |
