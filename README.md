@@ -6,17 +6,18 @@
 
 This is a lightweight, feature-packed image based on `debian:trixie-slim`. Built as a general-purpose toolkit containing standard networking tools, system diagnostics, data parsing utilities, and the Docker CLI.
 
+> [!NOTE]
+> The base docker compose will be 
 
 > [!NOTE]
 This image contains the following packages
-
 | Package | Commands |
 |---|---|
 | `bzip2` | `bzip2`, `bunzip2`, `bzcat`, `bzip2recover` |
 | `ca-certificates` | `update-ca-certificates` |
 | `curl` | `curl` |
 | `dnsutils` | `dig`, `nslookup`, `host`, `delv` |
-| `docker.io` | `docker`, `dockerd` |
+| `docker-ce-cli` | `docker` |
 | `dstat` | `dstat` |
 | `git` | `git`, `git-receive-pack`, `git-upload-pack` |
 | `gnupg` | `gpg`, `gpgv`, `gpgconf` |
