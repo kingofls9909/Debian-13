@@ -7,7 +7,7 @@
 This is a lightweight, feature-packed image based on `debian:trixie-slim`. Built as a general-purpose toolkit containing standard networking tools, system diagnostics, data parsing utilities, and the Docker CLI.
 
 > [!WARNING]
-> Docker currently is not supported
+> Docker is currently not supported
 
 > [!NOTE]
 This image contains the following packages
