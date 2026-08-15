@@ -17,7 +17,7 @@ This image contains the following packages
 | `ca-certificates` | `update-ca-certificates` |
 | `curl` | `curl` |
 | `dnsutils` | `dig`, `nslookup`, `host`, `delv` |
-| `docker-ce-cli` | `docker` | 
+| `docker.io` | `docker`, `dockerd` |
 | `dstat` | `dstat` |
 | `git` | `git`, `git-receive-pack`, `git-upload-pack` |
 | `gnupg` | `gpg`, `gpgv`, `gpgconf` |
@@ -51,6 +51,5 @@ This image contains the following packages
 | `xz-utils` | `xz`, `unxz`, `xzcat`, `lzma` |
 | `yq` | `yq` |
 | `zip` | `zip`, `zipcloak`, `zipnote`, `zipsplit` |
-
 
 ---
