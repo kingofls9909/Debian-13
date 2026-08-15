@@ -41,6 +41,7 @@ This image contains the following packages
 | `sysstat` | `iostat`, `sar`, `mpstat`, `pidstat` |
 | `tar` | `tar` |
 | `tmux` | `tmux` |
+| `traceroute` | `traceroute` |
 | `tree` | `tree` |
 | `unzip` | `unzip`, `funzip`, `unzipfs` |
 | `usbutils` | `lsusb` |
